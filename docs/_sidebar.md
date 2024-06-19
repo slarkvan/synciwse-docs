@@ -1,3 +1,4 @@
+- Getting started
 
-* [Home](/)
-* [Guide](guide.md)
+  - [Quick start](quickstart.md)
+  - [Writing more pages](more-pages.md)
