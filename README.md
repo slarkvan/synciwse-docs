@@ -1,6 +1,6 @@
 # Welcome to Syncwise
 
-Syncwise is an innovative platform designed to streamline the way you manage and organize your digital bookmarks across multiple social media platforms. By integrating with a variety of social networks and browsers, Syncwise allows users to synchronize, search, and manage bookmarks efficiently and effectively.
+[Syncwise](https://syncwise.xyz) is an innovative platform designed to streamline the way you manage and organize your digital bookmarks across multiple social media platforms. By integrating with a variety of social networks and browsers, Syncwise allows users to synchronize, search, and manage bookmarks efficiently and effectively.
 
 ## What is Syncwise?
 
