@@ -24,6 +24,6 @@ After your bookmarks are synchronized, you can access them directly through the 
 
 ## Supported Platforms
 
-Syncwise currently supports synchronizing bookmarks from platforms like Twitter, Instagram, Facebook, and more. For a full list of supported platforms and detailed instructions for each, refer to our [Supported Platforms](supported-platforms.md) document.
+Syncwise currently supports synchronizing bookmarks from platforms like Twitter, Facebook, and more. For a full list of supported platforms and detailed instructions for each, refer to our [Supported Platforms](supported-platforms.md) document.
 
 By following these steps, you can ensure that all your bookmarks are neatly organized and easily accessible via Syncwise, enhancing your browsing experience and productivity.

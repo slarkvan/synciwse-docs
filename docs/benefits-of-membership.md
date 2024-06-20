@@ -6,7 +6,7 @@ Becoming a premium member of Syncwise unlocks a host of advanced features design
 
 ### Multi-Social Platform Integration
 
-- **Unified Bookmark Management**: Manage bookmarks from various social media platforms such as Twitter, Instagram, Facebook, and more, all from a single dashboard.
+- **Unified Bookmark Management**: Manage bookmarks from various social media platforms such as Twitter, Facebook, and more, all from a single dashboard.
 - **Synchronization Across Platforms**: Automatically sync bookmarks across multiple devices and platforms, ensuring you always have access to your saved content no matter where you log in from.
 
 ### Advanced Search Capabilities

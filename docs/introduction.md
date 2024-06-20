@@ -19,7 +19,6 @@ Currently, Syncwise supports the following types of content from popular platfor
 
 - **Twitter**: Bookmarks
 - **TikTok**: Favorites
-- **Instagram**: SAVED
 - **Pinterest**: Saved
 - **YouTube**: Liked videos
 - **Facebook**: Saved

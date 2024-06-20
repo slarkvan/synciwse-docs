@@ -8,7 +8,6 @@ Syncwise is designed to accommodate a wide range of social media platforms and b
 
 - **Twitter**: Bookmarks
 - **TikTok**: Favorites
-- **Instagram**: SAVED
 - **Pinterest**: Saved
 - **YouTube**: Liked videos
 - **Facebook**: Saved

@@ -4,7 +4,7 @@ Syncwise is an innovative platform designed to streamline the way you manage and
 
 ## What is Syncwise?
 
-Syncwise aggregates bookmarks from various sources including Twitter, Instagram, Facebook, YouTube, and more into a single, easily accessible location. This not only simplifies the management of digital content but also enhances the user's ability to retrieve and utilize this information.
+Syncwise aggregates bookmarks from various sources including Twitter, Facebook, YouTube, and more into a single, easily accessible location. This not only simplifies the management of digital content but also enhances the user's ability to retrieve and utilize this information.
 
 ## Key Features
 

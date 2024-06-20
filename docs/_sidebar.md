@@ -25,3 +25,9 @@
   - [FAQ](faq.md)
   - [Troubleshooting](troubleshooting.md)
   - [Contact Us](contact-us.md)
+
+- Legal
+  - [Terms of Service](terms-of-service.md)
+  - [Privacy Policy](privacy-policy.md)
+  - [Refund Policy](refund-policy.md)
+  
