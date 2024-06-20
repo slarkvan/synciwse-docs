@@ -30,4 +30,5 @@
   - [Terms of Service](terms-of-service.md)
   - [Privacy Policy](privacy-policy.md)
   - [Refund Policy](refund-policy.md)
+  - [Cookie Policy](cookie-policy.md.md)
   
